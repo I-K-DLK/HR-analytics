@@ -8,8 +8,8 @@
 
 Три основные файла проекта:
 
-DB creation filling with data.sql где создается база данных
-и наполняется данными из внешних источников (Эксель файлы)
+DB creation and data upload.sql где создается база данных
+и наполняется данными из внешних источников (Excel файлы)
 
 SQL -  запросы формируются в файле: business metrics with SQL queries
 
